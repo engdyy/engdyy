@@ -1,5 +1,5 @@
 <h1 align="center">Chào 👋, Tôi Là EngDyy</h1>
-<h3 align="center">Tôi Là 1 Nhà Sáng Tạo Đang Tập Tễnh Trên Con Đường Mà Tôi Không Chọn :)</h3>
+<h3 align="center">My script fivem</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
